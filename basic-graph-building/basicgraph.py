@@ -25,8 +25,8 @@ product = tf.matmul(matrix1, matrix2)
 
 product2 = tf.matmul(matrix3, matrix4)
 
-# launch the default graph.
-sess = tf.Session()
+# launch the default graph. gets opened and closed using 'with' block below
+# sess = tf.Session()
 
 # to run the matmul op we call session 'run()' method, passing 'product'
 # which represents the output of the matmul op. This indicates to the call
