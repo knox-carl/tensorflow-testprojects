@@ -18,6 +18,11 @@ Created by Carl R. Knox on Mon Nov  9 10:43:08 MST 2015
 
 * shows creation of a scalar variable and operations on it as a tensor, using tensorflow
 
+### basic-fetches
+
+* shows how to fetch multiple outputs of ops so that all ops are run once, not once per requested tensor.
+
+----
 ## notes
 
 * the module scripts are interpreted using a base tensorflow virtualenv, installation instructions [here](http://tensorflow.org/get_started/os_setup.md#virtualenv-based_installation)
