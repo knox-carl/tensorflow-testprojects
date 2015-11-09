@@ -40,3 +40,4 @@ Created by Carl R. Knox on Mon Nov  9 10:43:08 MST 2015
 * [MNIST Visualization](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
 * [Principal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
 * [Softmax Function Description](http://neuralnetworksanddeeplearning.com/chap3.html#softmax)
+* [Cross-Entropy](http://colah.github.io/posts/2015-09-Visual-Information/)
