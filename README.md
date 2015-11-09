@@ -22,6 +22,10 @@ Created by Carl R. Knox on Mon Nov  9 10:43:08 MST 2015
 
 * shows how to fetch multiple outputs of ops so that all ops are run once, not once per requested tensor.
 
+### basic-feeds
+
+* shows how to patch tensors directly into any op in a graph
+
 ----
 ## notes
 
