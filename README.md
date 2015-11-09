@@ -17,3 +17,9 @@ Created by Carl R. Knox on Mon Nov  9 10:43:08 MST 2015
 ### basic-variables
 
 * shows creation of a scalar variable and operations on it as a tensor, using tensorflow
+
+## notes
+
+* the module scripts are interpreted using a base tensorflow virtualenv, installation instructions [here](http://tensorflow.org/get_started/os_setup.md#virtualenv-based_installation)
+* some IDE settings are included in this repo. if you don't want them then just delete the .idea directory
+  from project root.
