@@ -29,6 +29,8 @@ Created by Carl R. Knox on Mon Nov  9 10:43:08 MST 2015
 ----
 ## notes
 
+* each directory contains a target script, usually named similarly to the directory name; each directory is self-
+  contained in that way and can be run individually.
 * the module scripts are interpreted using a base tensorflow virtualenv, installation instructions [here](http://tensorflow.org/get_started/os_setup.md#virtualenv-based_installation)
 * some IDE settings are included in this repo. if you don't want them then just delete the .idea directory
   from project root after cloning the project.
@@ -43,3 +45,5 @@ Created by Carl R. Knox on Mon Nov  9 10:43:08 MST 2015
 * [Cross-Entropy](http://colah.github.io/posts/2015-09-Visual-Information/)
 * [Backpropagation Algorithm](http://colah.github.io/posts/2015-08-Backprop/)
 * [list of tensorflow optimization algorithms](http://tensorflow.org/api_docs/python/train.md#optimizers)
+* [Rectified Linear Units (neural networks)](https://en.wikipedia.org/wiki/Rectifier_%28neural_networks%29)
+* [Convolutional Neural Networks](http://neuralnetworksanddeeplearning.com/chap6.html#introducing_convolutional_networks)
