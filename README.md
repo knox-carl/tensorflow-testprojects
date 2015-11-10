@@ -31,7 +31,7 @@ Created by Carl R. Knox on Mon Nov  9 10:43:08 MST 2015
 
 * the module scripts are interpreted using a base tensorflow virtualenv, installation instructions [here](http://tensorflow.org/get_started/os_setup.md#virtualenv-based_installation)
 * some IDE settings are included in this repo. if you don't want them then just delete the .idea directory
-  from project root.
+  from project root after cloning the project.
   
 ----
 ## references
@@ -41,3 +41,5 @@ Created by Carl R. Knox on Mon Nov  9 10:43:08 MST 2015
 * [Principal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
 * [Softmax Function Description](http://neuralnetworksanddeeplearning.com/chap3.html#softmax)
 * [Cross-Entropy](http://colah.github.io/posts/2015-09-Visual-Information/)
+* [Backpropagation Algorithm](http://colah.github.io/posts/2015-08-Backprop/)
+* [list of tensorflow optimization algorithms](http://tensorflow.org/api_docs/python/train.md#optimizers)
