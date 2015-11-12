@@ -26,6 +26,18 @@ Created by Carl R. Knox on Mon Nov  9 10:43:08 MST 2015
 
 * shows how to patch tensors directly into any op in a graph
 
+### mnist-basic-ml
+
+* shows how to utilize tensorflow to train with simple gradient descent optimization on MNIST data (ref. below).
+
+### mnist-deep-ml
+
+* notes forthcoming
+
+### tensorflow-mechanics-101
+
+* notes forthcoming
+
 ----
 ## notes
 
@@ -34,6 +46,7 @@ Created by Carl R. Knox on Mon Nov  9 10:43:08 MST 2015
 * the module scripts are interpreted using a base tensorflow virtualenv, installation instructions [here](http://tensorflow.org/get_started/os_setup.md#virtualenv-based_installation)
 * some IDE settings are included in this repo. if you don't want them then just delete the .idea directory
   from project root after cloning the project.
+* MNIST : Mixed National Institute of Standards and Technology
   
 ----
 ## references
