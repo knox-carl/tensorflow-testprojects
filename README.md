@@ -47,3 +47,6 @@ Created by Carl R. Knox on Mon Nov  9 10:43:08 MST 2015
 * [list of tensorflow optimization algorithms](http://tensorflow.org/api_docs/python/train.md#optimizers)
 * [Rectified Linear Units (neural networks)](https://en.wikipedia.org/wiki/Rectifier_%28neural_networks%29)
 * [Convolutional Neural Networks](http://neuralnetworksanddeeplearning.com/chap6.html#introducing_convolutional_networks)
+* [Logit Models for Binary Data](http://data.princeton.edu/wws509/notes/c3.pdf)
+* [Logit](https://en.wikipedia.org/wiki/Logit)
+* [Modeling one neuron : neural networks](http://cs231n.github.io/neural-networks-1/)
